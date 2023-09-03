@@ -10,7 +10,7 @@ For an overview of this project as well as getting started instructions, check o
 https://www.loom.com/share/0d3c74890b8e44a5918c4cacb3f646c4
  
 ### Client
-
+`
 The client folder contains a [react app](https://reactjs.org/) using [vite](https://vitejs.dev/). To get started, follow these steps:
 
 1. Open up a terminal in the `/client` folder
